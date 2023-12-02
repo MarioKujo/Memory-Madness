@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: b557720dac5371d42b6c044a32648070
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_0"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1020
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0300699a159bb6f418499e614dd4daff
+      internalID: 1454398824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_1"
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1020
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ede8b11eba9d940988f50848346542
+      internalID: -1415838278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_2"
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1020
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b518817653761b4ea0af7525b44cfd6
+      internalID: -94930271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_3"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1020
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02de7762652dc54e8b76a0d84bd5e9e
+      internalID: 1970228755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_4"
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1020
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94ed14b5d1425a49924d3512d3298f5
+      internalID: 369551539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_5"
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1020
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751e54d393b45c740b4806b1c096ffc9
+      internalID: 2007434334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_6"
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1020
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aced988c8f02947a65f767d235b167
+      internalID: 1257337507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_7"
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1020
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12241798e71e4344a9ffae804e56f058
+      internalID: -1244427987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_8"
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1020
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299c390b8b3bde94b98db921a24e628c
+      internalID: 724925655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_9"
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1020
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e92f8687c7773c42b58226b70013c52
+      internalID: 1277832801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_10"
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1020
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c98cbe877fd50e40a0d8eb948629c91
+      internalID: 1722123729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_11"
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1020
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f88dce7b143cf4f9acd47def41fec0
+      internalID: 158285462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_12"
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 1020
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b21c52a56485e4c8f97b665b5243da
+      internalID: -2115130102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_13"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 692
+        width: 174
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b60199bced989409f6ba1107d56fcd
+      internalID: -715039166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_14"
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 692
+        width: 174
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87de5f5d835b931438dc76e406d43153
+      internalID: -938377945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_15"
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 692
+        width: 174
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd82a0f2fb0e82459ecfefed85d8a01
+      internalID: -920915851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_16"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 692
+        width: 174
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374a1ab5b5ea92843b1080b50e11df8c
+      internalID: 195343875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_17"
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 692
+        width: 174
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d081b047ee590564ca7522791887b0fa
+      internalID: 1820791754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_18"
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 692
+        width: 174
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972b4a435f8ac4246b98ceea4face16b
+      internalID: -638691430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_19"
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 692
+        width: 174
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c3c43b3a0fdd4488751c7302aad2db
+      internalID: -154321406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_20"
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 692
+        width: 174
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f569ac6b938d8aa419e0e090a6eb06d9
+      internalID: -723108419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_21"
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 692
+        width: 174
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ae31bb05c2d7e4ebf68b3730a27dea
+      internalID: -2067868947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_22"
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 692
+        width: 174
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc56a4a45b8d707489534086ddf284e4
+      internalID: -529822849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_23"
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 692
+        width: 174
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fa9217f8bce794f98295e6e631e367
+      internalID: 1859281253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_24"
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 692
+        width: 174
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eb31ef5ecadf343a63067b21a9a210
+      internalID: 1277230167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_25"
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 692
+        width: 174
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fab8ddc7b99d7488ccc6e7ab1924a6
+      internalID: -810939354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_26"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 363
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87e3961d6b7b8f40bb2d243a4f72618
+      internalID: -1621840284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_27"
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 363
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af227b4f7ae2af45a16d48e6c8467f0
+      internalID: 355671645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_28"
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 363
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93aee115a80ad44a86a5b6981f161c0
+      internalID: 1327380928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_29"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 363
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18f2bf541d6566458ecfbf0b68d418c
+      internalID: -526347607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_30"
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 363
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48922be374511354d81c7fa20f7388aa
+      internalID: 781398882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_31"
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 363
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ee104d1c51e9a42aa2b50d29645938
+      internalID: 566667934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_32"
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 363
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af68654466bcbfe47aa67c4ff6937d81
+      internalID: -523079448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_33"
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 363
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f6cef5acc897d4dbf32466c581c1a6
+      internalID: 283488318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_34"
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 363
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf2c42324c6232449d0f52d14df52ed
+      internalID: 634248222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_35"
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 363
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5a467c012b5094c9bad0972f676ea2
+      internalID: -1697665592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_36"
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 363
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6041636f64a7cb4899559cf0d001918
+      internalID: -1259640856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_37"
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 363
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253926ab9edda1f49bc3824f5b3a5a73
+      internalID: -87005453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_38"
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 363
+        width: 174
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132759b8e63125d40876b9922dc76da6
+      internalID: -603624871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_39"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 36
+        width: 174
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2cee179008ce74e918763667993bd2
+      internalID: -282964990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_40"
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 36
+        width: 174
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899181b4ce6e8af4e8ba06df28a47850
+      internalID: 505594560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_41"
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 36
+        width: 174
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c7b5d24a7edb042ae3964e2fcc4e58
+      internalID: -690355026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_42"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 36
+        width: 174
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7f945d7808f084d996feab3953f4f0
+      internalID: 517408528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_43"
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 36
+        width: 174
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35228edad91d1d40a7cb7e6288e8a1a
+      internalID: -686772071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_44"
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 36
+        width: 174
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a2aa488fe813044990d5a69c0c837c
+      internalID: -975937591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_45"
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 36
+        width: 174
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b588dfa5cd5b69409f4c684c0659ac5
+      internalID: -711069535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_46"
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 36
+        width: 174
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544566111718e8f4bbdd5d60d352ff70
+      internalID: -1163365838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_47"
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 36
+        width: 174
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e978aa45ff02ae41a67eab37b936354
+      internalID: -1377925817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_48"
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 36
+        width: 174
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8365d611c12be409cc855d602c0265
+      internalID: -1490641408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_49"
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 36
+        width: 174
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cd9b2837a1ba74b9071901fb2f7586
+      internalID: -1403573182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_50"
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 36
+        width: 174
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37fecaa099bad6488a64837a429aac6
+      internalID: -64006071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_51"
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 36
+        width: 174
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6745fc11b2a3874dbdd2be0217bf188
+      internalID: 1968022649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_52"
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 36
+        width: 176
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ce8e668ea4e7f468fbca29eddf7c24
+      internalID: -1180671329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_47": -1377925817
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_46": -1163365838
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_37": -87005453
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_23": 1859281253
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_6": 1257337507
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_48": -1490641408
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_16": 195343875
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_3": 1970228755
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_26": -1621840284
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_30": 781398882
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_41": -690355026
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_8": 724925655
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_40": 505594560
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_20": -723108419
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_32": -523079448
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_7": -1244427987
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_27": 355671645
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_1": -1415838278
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_25": -810939354
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_28": 1327380928
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_43": -686772071
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_33": 283488318
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_45": -711069535
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_11": 158285462
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_44": -975937591
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_10": 1722123729
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_5": 2007434334
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_4": 369551539
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_21": -2067868947
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_29": -526347607
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_34": 634248222
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_19": -154321406
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_49": -1403573182
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_36": -1259640856
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_52": -1180671329
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_35": -1697665592
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_13": -715039166
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_22": -529822849
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_31": 566667934
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_24": 1277230167
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_18": -638691430
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_15": -920915851
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_42": 517408528
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_2": -94930271
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_51": 1968022649
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_50": -64006071
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_9": 1277832801
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_39": -282964990
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_17": 1820791754
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_12": -2115130102
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_0": 1454398824
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_14": -938377945
+      "Cartas-de-p\xF3ker-(impares-mitad-y-mitad)_38": -603624871
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
